@@ -53,9 +53,3 @@ The goal is to classify text data (such as reviews or tweets) into sentiment cat
 - Accuracy and performance metrics
 - Visual representation of sentiment distribution
 
----
-
-## ▶️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/venkatarahulnaidupotthuru/your-repo-name.git
